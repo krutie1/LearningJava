@@ -22,7 +22,6 @@ public class Arrays {
         int[] preDefine = {1,2,3}; // predefine values
         int[] preDefine2 = new int[]{1,2,3}; // predefine values
 
-        //check commit
         System.out.println(numbers[4]);
     }
 }
